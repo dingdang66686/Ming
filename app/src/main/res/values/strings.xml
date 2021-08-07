@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ming</string>
+    <string name="background">Background</string>
+    <string name="searchPlaceHint">输入地址</string>
 </resources>
