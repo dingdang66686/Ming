@@ -2,4 +2,10 @@
     <string name="app_name">Ming</string>
     <string name="background">Background</string>
     <string name="searchPlaceHint">输入地址</string>
+    <string name="forecast_title">预报</string>
+    <string name="life_index">生活指数</string>
+    <string name="get_cold">感冒</string>
+    <string name="wear_clothes">穿衣</string>
+    <string name="ultra_violet">实时紫外线</string>
+    <string name="car_washing">洗车</string>
 </resources>

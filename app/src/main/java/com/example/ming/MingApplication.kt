@@ -10,7 +10,7 @@ class MingApplication : Application() {
         @SuppressLint("StaticFieldLeak")
         lateinit var context: Context
         //TODO: ADD TOKEN HERE
-        const val TOKEN = ""
+        const val TOKEN = "xNqPpo7T51t6Svml"
     }
 
     override fun onCreate() {
